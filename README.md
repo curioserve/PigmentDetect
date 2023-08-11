@@ -3,17 +3,14 @@
 This repository contains the code for a Skin Cancer Classification System using Deep Learning. The goal of the project is to classify pigmented skin lesions and detect skin lesions in images. The project utilizes the HAM10000 dataset for research purposes.
 
 <p align="center">
-  <img src="https://github.com/ali0salimi/cucumber-leaf-disease-prediction/blob/main/dataset_sample.png" alt="Project Demo" width="800">
+  <img src="https://github.com/ali0salimi/PigmentDetect/blob/main/prediction_sample.png" alt="Project Demo" width="800">
 </p>
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Key Steps](#key-steps)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
-- [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -29,25 +26,11 @@ The main objective of this project is to develop a system capable of classifying
 
 3. **FRCNN Model Training**: An FRCNN model is trained using the segmented images and corresponding bounding boxes. This model is used for both classifying and detecting skin lesions.
 
-4. **Evaluation and Results**: The trained FRCNN model is evaluated on a test set, and the results are documented. Metrics such as accuracy, precision, recall, and F1-score are reported.
-
-5. **Deployment**: If applicable, this section can cover how to deploy and use the trained model for real-world applications.
-
-## Installation
-
-Provide instructions here on how to install any dependencies and set up the environment needed to run your project.
-
-## Usage
-
-Explain how to use your code and scripts to replicate the experiments or results. Include command examples, arguments, and any other relevant information.
 
 ## Dataset
 
-Briefly describe the HAM10000 dataset and provide a link to where it can be accessed or downloaded.
+The HAM10000 dataset is a collection of skin lesion images that is commonly used for research in the field of dermatology and computer vision. It contains a diverse range of images depicting various types of pigmented skin lesions, including benign and malignant lesions. The dataset is valuable for developing and evaluating algorithms for skin lesion classification, segmentation, and detection using machine learning and deep learning techniques.
 
-## Results
-
-You can mention key results, metrics achieved by your model, and any visuals that showcase the performance of your system.
 
 ## Contributing
 
