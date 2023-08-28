@@ -34,11 +34,7 @@ The HAM10000 dataset is a collection of skin lesion images that is commonly used
 
 ## Contributing
 
-Explain how others can contribute to your project. Whether it's bug fixes, new features, or improvements, provide clear instructions for potential contributors.
 
 ## License
 
-Specify the license under which your project is released. For example, you can use a license badge like [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE).
 
----
-Feel free to customize the sections and content according to your project's specific needs. Remember to add any relevant images, code snippets, or diagrams to make your README more informative and visually appealing.
